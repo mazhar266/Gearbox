@@ -1,4 +1,4 @@
-# Async Gearman in PHP
+# Gearbox, an Async Gearman Example in PHP
 
 An example of running Gearman worker in Async mode in php via socket
 
